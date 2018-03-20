@@ -1,4 +1,4 @@
-# MASScripts
+# MAS Scripts
 Azure Stack Post Install Scripts
 
 You can execute the the files here in a post install of a Azure Stack ASDK to install PowerShell, Install Azure Stack Tools and Register the ASDK with your Azure Subscription so that you can access the marketplace. 
