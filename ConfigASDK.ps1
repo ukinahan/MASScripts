@@ -20,24 +20,14 @@
 
 .VERSION
 
-    2.1  update for release 1.0.171122.1 (fix for ADFS deployment)
+    2.1  update for release     0.4: add Windows update disable
+    0.3: Bug fix (SQL Provider prompting for tenantdirectoryID)
+    0.2: Bug Fix (AZStools download)
+  
+1.0.171122.1 (fix for ADFS deployment)
     2.0  update for release 1.0.280917.3 
     1.0: small bug fixes and adding quotas/plan/offer creation
     0.5: add SQL 2014 VM deployment
-    0.4: add Windows update disable
-    0.3: Bug fix (SQL Provider prompting for tenantdirectoryID)
-    0.2: Bug Fix (AZStools download)
-
-.AUTHOR
-
-    Alain VETIER 
-    Blog: http://aka.ms/alainv 
-    Email: alainv@microsoft.com
-
-.CONTRIBUTORS
-
-    Matt McSpirit
-    Email: Matt.McSpirit@microsoft.com   
 
 .PARAMETERS
 
